@@ -1,0 +1,15 @@
+Basics of Time series-
+1.Upward Trend
+2.stationary data
+3.Downward trend
+4.cyclic data
+
+Ex sales of Air Condition
+1.contains seasonality and upward trend mean will be increasing 
+
+2.downward trend-mean will be decreasing
+
+3.stationary-mean will be constant
+we try to make data into stationary
+
+4.cyclic data-stock data etc they have few ups and downs sudden spikes.here we cannot make forecasting or gurantee the output is correct because it consist of people sentiment and other variable.
